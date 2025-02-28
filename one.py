@@ -1,0 +1,1 @@
+mensagem = print('Olá, mundo')
